@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Whisper&display=swap');
+
+body {
+	font-family: 'Montserrat', sans-serif;
+} .cafeName {
+	font-family: 'Whisper', cursive;
+} .adet {
+	width: 10%;
+	outline: none;
+	border: none;
+
+}
